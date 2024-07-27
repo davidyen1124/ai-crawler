@@ -1,0 +1,17 @@
+{
+  "name": "ai-crawler",
+  "version": "1.0.0",
+  "main": "openai.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.53.2",
+    "playwright": "^1.45.3"
+  }
+}
